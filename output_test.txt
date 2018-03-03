@@ -1,0 +1,1 @@
+.\chessboard\task1_chessboard\chess_board.py:14:1: E303 too many blank lines (3)
